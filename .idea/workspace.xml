@@ -2,120 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28fbe898-af76-4f32-87cc-c4c3ca39a7ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Blabla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczenie5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonkaz16pazdz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko118pazdz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko19pazdznr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko20pazdznr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko216pazdz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko218pazdz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko23pazdznr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko23pazdznr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko3pazdznr3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko5list2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko5list3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko6pazdz1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko6pazdz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko7pazdznr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko8list2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Cwiczonko8listnr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/CzySilneHaslo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Lekcja2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/LiczbyNieparzyste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/MalaLitera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/MetodaDodawanie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Metodka1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/NajwiekszaLiczbaFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Nowezadanko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Pazdz7cw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/PotegiLiczby2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/ProgramUruchomieniowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/While10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/While1plus2plus3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Wrzesien27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Wrzesien27cw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zadanko28List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zadanko28List2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia29ListCw4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia29ListCw5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia29ListCw6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia29Listcw1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia29Listcw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/Zajecia29list4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/hyhyh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/javautil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Poczatek/zajecia28list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania_z_kursu/Miedzy50a100PodzielnePrzez7For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania_z_kursu/Miedzy50a100PodzielnePrzez7While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/training.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Blabla.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/C2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cw1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cw2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczenie5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonkaz16pazdz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko118pazdz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko19pazdznr1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko20pazdznr1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko216pazdz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko218pazdz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko23pazdznr1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko23pazdznr2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko3pazdznr3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko5list2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko5list3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko6pazdz1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko6pazdz2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko7pazdznr1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko8list2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Cwiczonko8listnr1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/CzySilneHaslo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/IleMalychLiterWTekscie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Lekcja2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/LiczbyNieparzyste.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/MalaLitera.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/MetodaDodawanie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Metodka1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/NajwiekszaLiczbaFor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Nowezadanko.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Pazdz7cw1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/PotegiLiczby2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/ProgramUruchomieniowy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/While10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/While1plus2plus3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Wrzesien27.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Wrzesien27cw2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zadanko28List.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zadanko28List2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia29ListCw4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia29ListCw5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia29ListCw6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia29Listcw1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia29Listcw2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/Zajecia29list4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/hyhyh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/javautil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Poczatek/zajecia28list.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Zadania_z_kursu/Miedzy50a100PodzielnePrzez7For.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Zadania_z_kursu/Miedzy50a100PodzielnePrzez7While.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/training-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -157,11 +44,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Poczatek/Metodka1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/github/HelloGit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/github/Proba2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -224,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Wrzesien27cw2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pazdz7cw1.java" />
         <option value="$PROJECT_DIR$/src/main/java/C2.java" />
         <option value="$PROJECT_DIR$/src/main/java/javautil.java" />
@@ -275,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Zadania_z_kursu/Miedzy50a100PodzielnePrzez7For.java" />
         <option value="$PROJECT_DIR$/src/main/java/Zadania_z_kursu/Miedzy50a100PodzielnePrzez7While.java" />
         <option value="$PROJECT_DIR$/src/main/java/Poczatek/Metodka1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/github/HelloGit.java" />
       </list>
     </option>
   </component>
@@ -285,13 +194,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="682" />
-    <option name="y" value="6" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="601" />
     <option name="width" value="940" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -328,15 +238,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Poczatek" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadania_z_kursu" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -448,14 +350,41 @@
       <option name="project" value="LOCAL" />
       <updated>1607764365063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Elo mordo">
+      <created>1607764527314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607764527314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hi git">
+      <created>1607764678627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607764678627</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hi git">
+      <created>1607764843985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607764843985</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hi git">
+      <created>1607764850867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607764850867</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="546" y="5" width="752" height="840" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.44508672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44508672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -469,7 +398,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32768363" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32768363" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.518792" side_tool="true" weight="0.35055867" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4919463" weight="0.3226257" />
@@ -486,7 +415,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elo mordo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elo mordo" />
+    <MESSAGE value="Hi git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hi git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,20 +620,6 @@
     <SUITE FILE_PATH="coverage/training$Lekcja2.ic" NAME="Lekcja2 Coverage Results" MODIFIED="1602429810154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Poczatek/Nowezadanko.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Poczatek/NajwiekszaLiczbaFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Poczatek/Lekcja2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1028,6 +944,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/github/Proba2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/github/HelloGit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
